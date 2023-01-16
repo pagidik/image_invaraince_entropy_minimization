@@ -1,0 +1,10 @@
+{
+    "simple-shadow-removal" : 
+    {
+        "input" : "../samples/Shadow-removal/1.png",
+        "input-size" : "",
+        "record" : false,
+        "display" : true,
+        "gpu" : true
+    }
+}
